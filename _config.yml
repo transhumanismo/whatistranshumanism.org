@@ -4,7 +4,7 @@ gems:
 sass:
   style: compressed
 
-timezone: Europe/Stockholm
+timezone: America/Recife
 markdown: kramdown
 
 live_url: http://whatistranshumanism.org
